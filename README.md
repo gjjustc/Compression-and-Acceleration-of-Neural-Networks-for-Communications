@@ -1,1 +1,1 @@
-# Compression-and-Acceleration-of-Neural-Networks-for-Communications
+# J. Guo, J. Wang, C. -K. Wen, S. Jin and G. Y. Li, "Compression and Acceleration of Neural Networks for Communications," in IEEE Wireless Communications, vol. 27, no. 4, pp. 110-117, August 2020, doi: 10.1109/MWC.001.1900473.
